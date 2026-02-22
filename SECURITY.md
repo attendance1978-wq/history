@@ -24,7 +24,7 @@ You can report vulnerabilities by:
 - Or contacting the author directly via GitHub profile
 
 GitHub Issues:
-https://github.com/attendance1978-wq/history/.github/ISSUE_TEMPLATE/bug_report.md
+https://github.com/attendance1978-wq/history/blob/main/.github/ISSUE_TEMPLATE/bug_report.md
 
 ---
 
