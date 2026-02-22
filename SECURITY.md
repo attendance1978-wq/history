@@ -1,21 +1,69 @@
 # Security Policy
+# Security Policy
 
 ## Supported Versions
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+The following versions of the History Viewer Extension are currently supported with security updates.
 
-| Version | Supported          |
-| ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+| Version | Supported |
+| ------- | --------- |
+| 1.0.x   | ✅ Yes    |
+| < 1.0   | ❌ No     |
+
+---
 
 ## Reporting a Vulnerability
 
-Use this section to tell people how to report a vulnerability.
+If you discover a security vulnerability in this project, please report it responsibly.
 
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+### How to report
+
+You can report vulnerabilities by:
+
+- Opening a GitHub Issue (recommended)
+- Or contacting the author directly via GitHub profile
+
+GitHub Issues:
+https://github.com/attendance1978-wq/history/issues
+
+---
+
+## What to expect
+
+After reporting a vulnerability:
+
+- You will receive acknowledgment within 48 hours
+- The vulnerability will be investigated
+- A fix will be released as soon as possible if confirmed
+- You will be notified when the issue is resolved
+
+---
+
+## Scope
+
+This policy applies to:
+
+- manifest.json
+- popup.js
+- popup.html
+- popup.css
+- background.js
+- All extension functionality
+
+---
+
+## Best Practices for Users
+
+Only install the extension from trusted sources such as:
+
+- GitHub Releases
+- Microsoft Edge Add-ons
+- Chrome Web Store
+
+Do not install modified or unofficial versions.
+
+---
+
+## Author
+
+attendance1978-wq
