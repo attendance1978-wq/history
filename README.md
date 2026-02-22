@@ -1,4 +1,3 @@
-# History Viewer Extension
 <p align="center">
   <img src="icon.png" width="128" alt="History Viewer Icon">
 </p>
@@ -88,5 +87,6 @@ Current Version: 1.0.0
 attendance1978-wq
 
 ## License
+
 
 MIT License
