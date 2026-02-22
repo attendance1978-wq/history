@@ -5,72 +5,31 @@
 <h1 align="center">History Viewer Extension</h1>
 
 <p align="center">
-Modern browser history viewer for Microsoft Edge and Google Chrome.
+A modern browser history viewer for Microsoft Edge and Google Chrome using Bootstrap 5.
 </p>
 
+---
 
-## Features
+## 📸 Screenshots
 
-- View browsing history
-- Search history instantly
-- Website favicon icons
-- Clean Bootstrap 5 interface
-- Fast and lightweight
-- Scrollable history list
-- Works on Edge and Chrome
+<p align="center">
+  <img src="fan.jpeg" width="400" alt="History Extension Screenshot">
+</p>
 
-## UI Features
+---
 
-- Bootstrap 5 layout
-- Bootstrap Icons
-- Website favicon support
-- Responsive design
+## 🚀 Features ✅
 
-## Installation (Developer Mode)
+- 🔎 Search browser history instantly
+- 🌐 Website favicon icons
+- 🎨 Bootstrap 5 user interface
+- 📱 Responsive layout
+- ⚡ Fast and lightweight
+- 🖥 Compatible with Microsoft Edge & Google Chrome
 
-### Microsoft Edge
+---
 
-1. Open Edge
-2. Go to:
-   edge://extensions/
-
-3. Enable Developer mode
-
-4. Click Load unpacked
-
-5. Select the extension folder
-
-### Google Chrome
-
-1. Open Chrome
-2. Go to:
-   chrome://extensions/
-
-3. Enable Developer mode
-
-4. Click Load unpacked
-
-5. Select extension folder
-
-## Permissions Used
-
-history  
-Allows the extension to read browser history.
-
-## Folder Structure
-
-```
-history-extension/
-├── manifest.json
-├── popup.html
-├── popup.js
-├── popup.css
-├── icon.png
-├── README.md
-└── CHANGELOG.md
-
-```
-## Technologies Used
+## 🛠 Technologies Used
 
 - JavaScript
 - Bootstrap 5
@@ -78,15 +37,52 @@ history-extension/
 - Chrome Extension API
 - Edge Extension API
 
-## Version
+---
 
-Current Version: 1.0.0
+## 📂 Installation (Developer Mode)
 
-## Author
+### Microsoft Edge
 
-attendance1978-wq
+1. Open `edge://extensions/`  
+2. Enable **Developer mode**  
+3. Click **Load unpacked**  
+4. Select the extension folder  
 
-## License
+### Google Chrome
 
+1. Open `chrome://extensions/`  
+2. Enable **Developer mode**  
+3. Click **Load unpacked**  
+4. Select the extension folder  
 
-MIT License
+---
+
+## 🌐 Supported Browsers
+
+- Microsoft Edge (Chromium-based)  
+- Google Chrome  
+
+---
+
+## 📦 Release Downloads
+
+You can download the ready-to-install ZIP version from the **Releases** tab:  
+[Download v1.0.0](https://github.com/attendance1978-wq/history/releases/tag/v1.0.0)
+
+---
+
+## 🤝 Contribution
+
+1. Fork the repository  
+2. Create a feature branch: `git checkout -b feature-name`  
+3. Commit your changes: `git commit -m "Add feature"`  
+4. Push to the branch: `git push origin feature-name`  
+5. Open a Pull Request  
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
+
+---
